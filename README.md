@@ -1,2 +1,3 @@
-# Data-structrue.py
-This repository is for all data structure programs implemented on python
+# Python
+
+Explore the python with prass code!.
